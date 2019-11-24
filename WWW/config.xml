@@ -6,7 +6,7 @@
         id        = "mob.app.dev.navigation"
         version   = "1.0.0">
 
-    <name>Input Example</name>
+    <name>Input Example for Number</name>
 
     <description>
         Application demonstrates mobile input with number instead of text.
